@@ -7,7 +7,7 @@
 .answer{
   font-size: 3.5em;
 	font-family: 'Lobster', cursive;
-  color: #4e585c;
+  color: #f3f4f3;
   width:75%;
   height: auto;
   position: absolute;
@@ -27,8 +27,8 @@
 }
 
 html{
-  color: #4e585c;
-  background-color: #fdf6e3;
+  color: #f3f4f3;
+  background-color: #323439;
   font-family: 'Tiresias', sans-serif;
 }
 
@@ -42,22 +42,22 @@ html{
 }
 
 .heart {
-  fill: #dc322f;
+  fill: #d7100f;
 	width: 30px;
 }
 
 a{
-  color:#6ea84b;
+  color:#d7100f;
 }
 
 #button{
   cursor: pointer;
 	float: right;
-	border: 2px solid #6ea84b;
+	border: 2px solid #d7100f;
 	padding: 4px 3px 0px 3px;
-	color: #6ea84b;
+	color: #d7100f;
 	font-size: 2em;
-	background-color: #fdf6e3;
+	background-color: #323439;
 	-webkit-transition: all 500ms ease;
 	-moz-transition: all 500ms ease;
 	-ms-transition: all 500ms ease;
@@ -66,6 +66,6 @@ a{
 }
 
 #button:hover{
-	background-color: #6ea84b;
-	color: #fdf6e3;
+	background-color: #d7100f;
+	color: #323439;
 }
