@@ -1,5 +1,6 @@
 # [keem-clickbait](http://solarpolarman.github.io/leafy-clickbait/)
-A website that generate titles for DramaAlert videos.
+A website that generate titles for DramaAlert videos. Made with real quotes.
+
 
 Credits
 --
