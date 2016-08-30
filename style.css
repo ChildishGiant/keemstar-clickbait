@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@font-face {
+  font-family: Tiresias;
+  src: url('fonts/Tiresias_Infofont.ttf');
+}
+
+.answer{
+  font-size: 3.5em;
+	font-family: 'Lobster', cursive;
+  color: #4e585c;
+  width:75%;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  text-decoration: underline;
+	transition:all .2s ease-in;
+  cursor: pointer;
+}
+
+.answer:hover{
+  text-decoration-color: rgba(36, 36, 36, .9);
+  -webkit-text-decoration-color: rgba(36, 36, 36, .9);
+  -moz-text-decoration-color: rgba(36, 36, 36, .9);
+}
+
+html{
+  color: #4e585c;
+  background-color: #fdf6e3;
+  font-family: 'Tiresias', sans-serif;
+}
+
+#footnote{
+  top:95%;
+  height: 5%;
+  width:100%;
+  text-align: center;
+  position: fixed;
+  font-size: 1em;
+}
+
+.heart {
+  fill: #dc322f;
+	width: 30px;
+}
+
+a{
+  color:#6ea84b;
+}
+
+#button{
+  cursor: pointer;
+	float: right;
+	border: 2px solid #6ea84b;
+	padding: 4px 3px 0px 3px;
+	color: #6ea84b;
+	font-size: 2em;
+	background-color: #fdf6e3;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+
+#button:hover{
+	background-color: #6ea84b;
+	color: #fdf6e3;
+}
