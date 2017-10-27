@@ -1,4 +1,4 @@
-# [keem-clickbait](http://solarpolarman.github.io/leafy-clickbait/)
+# [keem-clickbait](http://ChildishGiant.github.io/leafy-clickbait/)
 A website that generate titles for DramaAlert videos. Made with real quotes.
 
 
